@@ -1,0 +1,40 @@
+# Compilados Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Pasta de build do Maven
+target/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# Banco de dados local (cada um cria o seu)
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Variáveis de ambiente
+.env
