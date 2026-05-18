@@ -3,8 +3,9 @@
 Sistema CRUD em Java + SQLite para gerenciar produtos de uma lanchonete, desenvolvido como atividade prática da disciplina de Desenvolvimento de Sistemas.
 
 ## 👥 Integrantes
-- Nicolas [seu sobrenome]
-- [Nome do parceiro]
+- Nicolas 
+- Mainã
+- Caio
 
 ## 📋 Sobre o projeto
 
